@@ -101,3 +101,11 @@ The Secret Intelligence Service, commonly known as MI6, is the foreign intellige
 -   Staff Operations Officer
 
 -   Targeting Officer
+
+
+### Disguises
+
+-  Quick Change
+-  Light Change
+-  Heavy Change
+-  35 Second Swap
